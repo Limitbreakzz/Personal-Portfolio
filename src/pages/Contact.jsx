@@ -40,7 +40,7 @@ const Contact = () => {
           {/* GitHub */}
           <div className="flex flex-col items-center text-center transition-all duration-300 transform hover:scale-110">
             <img
-              src="https://th.bing.com/th/id/R.f12560820c5070ee4be83c3feb569ce1?rik=l9Xz9PiZqqnDJQ&pid=ImgRaw&r=0"
+              src="https://www.pngall.com/wp-content/uploads/13/Github-Logo-Transparent.png"
               className="h-20 mb-4"
               alt="GitHub"
             />

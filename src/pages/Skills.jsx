@@ -20,7 +20,7 @@ const Skills = () => {
     },
     {
       name: "Tailwind",
-      img: "https://cdn.brandfetch.io/tailwindcss.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed",
+      img: "https://svgstack.com/media/img/tailwindcss-logo-xM0R014051.webp",
     },
     {
       name: "Node.js",

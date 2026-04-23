@@ -15,7 +15,7 @@ const HomePage = () => {
           {/* รูปภาพตรงกลาง */}
           <div className="md:w-1/3 flex justify-center p-4 z-10 h-full">
             <img
-              src="https://drive.google.com/u/0/drive-viewer/AKGpihbdnD4TpbI8MJPleLTb0HOePaJnNnsbtS0UzSh_HvVPGVbJ9b8caBBIIyzLAkLlVbi2wGTgcUYHwKDj1Stuke3O3RPBZPdXjw=s1600-rw-v1?auditContext=forDisplay"
+              src="https://discord.com/channels/1140320680416657439/1140320680861249567/1496707206031347784"
               alt="me"
               className="w-full h-full max-w-lg object-cover"
             />

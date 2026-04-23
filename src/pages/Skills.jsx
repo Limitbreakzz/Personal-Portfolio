@@ -20,11 +20,11 @@ const Skills = () => {
     },
     {
       name: "Tailwind",
-      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042",
+      img: "https://cdn.brandfetch.io/tailwindcss.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed",
     },
     {
       name: "Node.js",
-      img: "https://th.bing.com/th/id/R.4dfe01148ebce3a9de8ab55279b0b4bc?rik=Cb%2f46GSGyzIMJA&pid=ImgRaw&r=0",
+      img: "https://1.bp.blogspot.com/-sqAjIvOtpXI/XYoCmqOyMwI/AAAAAAAAJig/CowR8wgEauEs-RXN2IPmLYkC7NHoHuA3gCLcBGAsYHQ/s1600/node-js-logo.png",
     },
   ];
 
